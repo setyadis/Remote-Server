@@ -1,0 +1,4 @@
+vi
+more
+less
+rm
